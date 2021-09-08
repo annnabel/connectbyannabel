@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/pastelBlue</item>
+        <item name="colorPrimaryDark">@color/pastelPink</item>
+        <item name="colorAccent">@color/pastelOrange</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+    </style>
+
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='annabels-app'
+include ':app'
